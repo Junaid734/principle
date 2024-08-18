@@ -1,3 +1,4 @@
 # principle
 this is my second repo
-my name is junaid
+my name is Muhammad Junaid
+my father name is Amjad Ali
